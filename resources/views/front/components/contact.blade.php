@@ -16,8 +16,8 @@
                         <ul>
                             <li><strong>Address . . . . .</strong> Yangon, Myanmar</li>
                             <li><strong>Email . . . . .</strong> chozinphyo@ucsy.edu.mm</li>
-                            <li><strong>Phone . . . . .</strong> +959970217345</li>
-                            <li><strong>Freelance . . . . .</strong> Available</li>
+                            <li><strong>Phone . . . . .</strong> +65 86513267</li>
+                            <li><strong>WhatsApp . . . . .</strong>+65 86513267</li>
                         </ul>
                     </div>
                 </div>

@@ -8,6 +8,335 @@
             <div class="title">Projects</div>
 
             <div class="row grid-items border-line-v">
+                {{-- conceptX mobile app --}}
+                <div class="col col-d-6 col-t-6 col-m-12 grid-item design border-line-h">
+                    <div class="box-item">
+                        <div class="desc">
+                            <a href="#popup-6" class="name has-popup-media">
+                                <img src="{{ asset('front/images/projects/conceptx.png') }}" style="width:200px; " alt="">
+                            </a>
+                            <a href="#popup-6" class="name has-popup-media">Online Learning Management System</a>
+                            <div class="category">Mobile APP</div>
+                        </div>
+                        <div id="popup-6" class="popup-box mfp-fade mfp-hide">
+                            <div class="content">
+                                <div class="image">
+                                    <img src="{{ asset('front/images/projects/conceptx.png') }}" alt="">
+                                </div>
+                                <div class="desc">
+                                    <h1>Online Learning Management System</h1>						
+                                        <div class="blog-detail">Mobile APP</div>
+                                        <div class="blog-content">
+                                            <h1>Project Summary</h1>
+                                            <p>There are four main features - Video Section to sell the video courses, Content, Assignment and Classroom.
+                                            <h3>Language & Environment</h3>
+                                            <ul>
+                                                <li>Laravel Framework</li>
+                                                <li>PHP</li>
+                                                <li>Tailwind CSS</li>
+                                                <li>jQuery</li>
+                                                <li>JavaScript</li>
+                                                <li>Bootstrap</li>
+                                            </ul>
+                                            <h3>My Responsibilities</h3>
+                                            <ul>
+                                                <li>Discuss with the front-end development and other members to implement the new features</li>
+                                                <li>Requirement analysis, making the flowchart and database design</li> 
+                                                <li>Generate the API for this APP</li>
+                                                <li>Testing new features and fixing bugs</li>
+                                                <li>Document the new features</li>
+                                            </ul>
+                                        </div>
+                                        <br>
+                                        <a href="https://play.google.com/store/apps/details?id=co.binary.conceptx" class="button" target="_blank">
+                                            <span class="text">View App</span>
+                                            <span class="arrow"></span>
+                                        </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 {{-- conceptX web app --}}
+                <div class="col col-d-6 col-t-6 col-m-12 grid-item design border-line-h">
+                    <div class="box-item">
+                        <div class="desc">
+                            <a href="#popup-7" class="name has-popup-media">
+                                <img src="{{ asset('front/images/projects/conceptx_web_app.png') }}" style="width:200px; " alt="">
+                            </a>
+                            <a href="#popup-7" class="name has-popup-media">Online Learning Management System</a>
+                            <div class="category">Vue</div>
+                        </div>
+                        <div id="popup-7" class="popup-box mfp-fade mfp-hide">
+                            <div class="content">
+                                <div class="image">
+                                    <img src="{{ asset('front/images/projects/conceptx_web_app.png') }}" alt="">
+                                </div>
+                                <div class="desc">
+                                    <h1>Online Learning Management System</h1>						
+                                        <div class="blog-detail">Vue</div>
+                                        <div class="blog-content">
+                                            <h1>Project Summary</h1>
+                                            <p>There are three main features in this web application - Content, Assignment and Classroom. 
+                                            </p>
+                                            <h3>Language & Environment</h3>
+                                            <ul>
+                                                <li>Laravel Framework</li>
+                                                <li>PHP</li>
+                                                <li>Vue.js</li>
+                                                <li>Tailwind CSS</li>
+                                                <li>jQuery</li>
+                                                <li>JavaScript</li>
+                                                <li>Bootstrap</li>
+                                            </ul>
+                                            <h3>My Responsibilities</h3>
+                                            <ul>
+                                                <li>Discuss with the front-end development and other members to implement the new features</li>
+                                                <li>Requirement analysis, making the flowchart and database design</li>
+                                                <li>Develop the admin dashboard and generate the API</li>
+                                                <li>Testing new features and fixing bugs</li>
+                                                <li>Deploy this application on the Digital Ocean Server</li>
+                                                <li>Document the new features</li>
+                                            </ul>
+                                        </div>
+                                        <br>
+                                        <a href="https://class.conceptxmm.com/" class="button" target="_blank">
+                                            <span class="text">View Web App</span>
+                                            <span class="arrow"></span>
+                                        </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {{-- conceptX Dashboard --}}
+                <div class="col col-d-6 col-t-6 col-m-12 grid-item design border-line-h">
+                    <div class="box-item">
+                        <div class="desc">
+                            <a href="#popup-8" class="name has-popup-media">
+                                <img src="{{ asset('front/images/projects/admin_dashboard.png') }}" style="width:200px; " alt="">
+                            </a>
+                            <a href="#popup-8" class="name has-popup-media">ConceptX Admin Dashboard</a>
+                            <div class="category">Laravel</div>
+                        </div>
+                        <div id="popup-8" class="popup-box mfp-fade mfp-hide">
+                            <div class="content">
+                                <div class="image">
+                                    <img src="{{ asset('front/images/projects/admin_dashboard.png') }}" alt="">
+                                </div>
+                                <div class="desc">
+                                    <h1>Learning Management System</h1>						
+                                        <div class="blog-detail">Admin dashboard</div>
+                                        <div class="blog-content">
+                                            <h1>Project Summary</h1>
+                                            <p>Develop this dashboard for learning management system. 
+                                            </p>
+                                            <h3>Language & Environment</h3>
+                                            <ul>
+                                                <li>Laravel Framework</li>
+                                                <li>PHP</li>
+                                                <li>Tailwind CSS</li>
+                                                <li>jQuery</li>
+                                                <li>JavaScript</li>
+                                                <li>Bootstrap</li>
+                                            </ul>
+                                            <h3>My Responsibilities</h3>
+                                            <ul>
+                                                <li>Discuss with the front-end development and other members to implement the new features</li>
+                                                <li>Requirement analysis, making the flowchart and database design</li>
+                                                <li>Develop the admin dashboard and generate the API</li>
+                                                <li>Testing new features and fixing bugs</li>
+                                                <li>Deploy on the Digital Ocean Server</li>
+                                                <li>Document the new features</li>
+                                            </ul>
+                                        </div>
+                                        <br>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 {{-- conceptX landing page --}}
+                 <div class="col col-d-6 col-t-6 col-m-12 grid-item design border-line-h">
+                    <div class="box-item">
+                        <div class="desc">
+                            <a href="#popup-10" class="name has-popup-media">
+                                <img src="{{ asset('front/images/projects/landing_page.png') }}" style="width:200px; " alt="">
+                            </a>
+                            <a href="#popup-10" class="name has-popup-media">ConceptX Landing Page</a>
+                            <div class="category">Laravel</div>
+                        </div>
+                        <div id="popup-10" class="popup-box mfp-fade mfp-hide">
+                            <div class="content">
+                                <div class="image">
+                                    <img src="{{ asset('front/images/projects/landing_page.png') }}" alt="">
+                                </div>
+                                <div class="desc">
+                                    <h1>ConceptX Landing Page</h1>						
+                                        <div class="blog-detail">Website</div>
+                                        <div class="blog-content">
+                                            <h3>Language & Environment</h3>
+                                            <ul>
+                                                <li>Laravel</li>
+                                                <li>PHP</li>
+                                                <li>Tailwind CSS</li>
+                                                <li>jQuery</li>
+                                                <li>JavaScript</li>
+                                                <li>Bootstrap</li>
+                                            </ul>
+                                            <h3>My Responsibilities</h3>
+                                            <ul>
+                                                <li>
+                                                    Developed Landing Page
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <br>
+                                        <a href="https://conceptxmm.com/" class="button" target="_blank">
+                                            <span class="text">View Landing Page</span>
+                                            <span class="arrow"></span>
+                                        </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+                 {{-- conceptX School Management System --}}
+                 <div class="col col-d-6 col-t-6 col-m-12 grid-item design border-line-h">
+                    <div class="box-item">
+                        <div class="desc">
+                            <a href="#popup-9" class="name has-popup-media">
+                                <img src="{{ asset('front/images/projects/school_management_system.png') }}" style="width:200px; " alt="">
+                            </a>
+                            <a href="#popup-9" class="name has-popup-media">ConceptX SME</a>
+                            <div class="category">Vue</div>
+                        </div>
+                        <div id="popup-9" class="popup-box mfp-fade mfp-hide">
+                            <div class="content">
+                                <div class="image">
+                                    <img src="{{ asset('front/images/projects/school_management_system.png') }}" alt="">
+                                </div>
+                                <div class="desc">
+                                    <h1>School Management System</h1>						
+                                        {{-- <div class="blog-detail">Admin dashboard</div> --}}
+                                        <div class="blog-content">
+                                            <h1>Project Summary</h1>
+                                            <p> This system includes student registration, Placement Test , Classroom , Scheduling and Bill Payment.
+                                            </p>
+                                            <h3>Language & Environment</h3>
+                                            <ul>
+                                                <li>Laravel Framework</li>
+                                                <li>PHP</li>
+                                                <li>Vue</li>
+                                                <li>Tailwind CSS</li>
+                                                <li>jQuery</li>
+                                                <li>JavaScript</li>
+                                                <li>Bootstrap</li>
+                                            </ul>
+                                            <h3>My Responsibilities</h3>
+                                            <ul>
+                                                <li>Discuss with the front-end development and other members to implement the new features</li>
+                                                <li>Requirement analysis, making the flowchart and database design</li>
+                                                <li>Develop the admin dashboard and generate the API</li>
+                                                <li>Testing new features and fixing bugs</li>
+                                                <li>Deploy on the Digital Ocean Server</li>
+                                                <li>Document the new features</li>
+                                            </ul>
+                                        </div>
+                                        <br>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 {{-- Coach Finding App --}}
+                 <div class="col col-d-6 col-t-6 col-m-12 grid-item design border-line-h">
+                    <div class="box-item">
+                        <div class="desc">
+                            <a href="#popup-11" class="name has-popup-media">
+                                <img src="{{ asset('front/images/projects/coach_finding.png') }}" style="width:200px; " alt="">
+                            </a>
+                            <a href="#popup-11" class="name has-popup-media">Coach Finding Application</a>
+                            <div class="category">Vue</div>
+                        </div>
+                        <div id="popup-11" class="popup-box mfp-fade mfp-hide">
+                            <div class="content">
+                                <div class="image">
+                                    <img src="{{ asset('front/images/projects/coach_finding.png') }}" alt="">
+                                </div>
+                                <div class="desc">
+                                    <h1>Find a Coach</h1>						
+                                        <div class="blog-detail">Vue</div>
+                                        <div class="blog-content">
+                                            <h1>Project Summary</h1>
+                                            <p>
+                                            This is my vue testing project. 
+                                            In this system, coaches can create there profile on this platform. Students can contact the coaches. Coaches can view the requested messages by students.
+                                            </p>
+                                            <h3>Language & Environment</h3>
+                                            <ul>
+                                                <li>Vue</li>
+                                            </ul>
+                                            <h3>My Responsibilities</h3>
+                                            <ul>
+                                                <li>Develop coach finding app</li>
+                                                <li>Deploy this application on firebase Server</li>
+                                            </ul>
+                                        </div>
+                                        <br>
+                                        <a href="https://coach-finding-web-app-7a987.web.app/" class="button" target="_blank">
+                                            <span class="text">View Web App</span>
+                                            <span class="arrow"></span>
+                                        </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 {{-- Monster Slayer Game --}}
+                 <div class="col col-d-6 col-t-6 col-m-12 grid-item design border-line-h">
+                    <div class="box-item">
+                        <div class="desc">
+                            <a href="#popup-11" class="name has-popup-media">
+                                <img src="{{ asset('front/images/projects/monster_slayer_game.png') }}" style="width:200px; " alt="">
+                            </a>
+                            <a href="#popup-11" class="name has-popup-media">Monster Slayer Game</a>
+                            <div class="category">Vue</div>
+                        </div>
+                        <div id="popup-11" class="popup-box mfp-fade mfp-hide">
+                            <div class="content">
+                                <div class="image">
+                                    <img src="{{ asset('front/images/projects/monster_slayer_game.png') }}" alt="">
+                                </div>
+                                <div class="desc">
+                                    <h1>Find a Coach</h1>						
+                                        <div class="blog-detail">Vue</div>
+                                        <div class="blog-content">
+                                            <h1>Project Summary</h1>
+                                            <p>
+                                            This is my vue testing project.</p>
+                                            <h3>Language & Environment</h3>
+                                            <ul>
+                                                <li>Vue</li>
+                                                <li>CSS</li>
+                                            </ul>
+                                            <h3>My Responsibilities</h3>
+                                            <ul>
+                                                <li>Develop coach finding app</li>
+                                                <li>Deploy this application on firebase Server</li>
+                                            </ul>
+                                        </div>
+                                        <br>
+                                        <a href="https://monster-slayer-game-5d077.web.app/" class="button" target="_blank">
+                                            <span class="text">View Web App</span>
+                                            <span class="arrow"></span>
+                                        </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div></div>
                 {{-- green hill valley --}}
                 <div class="col col-d-6 col-t-6 col-m-12 grid-item design border-line-h">
                     <div class="box-item">
@@ -224,58 +553,6 @@
                                         <br>
                                         <a href="https://rhinoshieldmyanmar.com/" class="button" target="_blank">
                                             <span class="text">View Website</span>
-                                            <span class="arrow"></span>
-                                        </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                {{-- concept x --}}
-                <div class="col col-d-6 col-t-6 col-m-12 grid-item design border-line-h">
-                    <div class="box-item">
-                        <div class="desc">
-                            <a href="#popup-6" class="name has-popup-media">
-                                <img src="{{ asset('front/images/projects/conceptx.png') }}" style="width:200px; " alt="">
-                            </a>
-                            <a href="#popup-6" class="name has-popup-media">ConceptX</a>
-                            <div class="category">Online Learning Management System</div>
-                        </div>
-                        <div id="popup-6" class="popup-box mfp-fade mfp-hide">
-                            <div class="content">
-                                <div class="image">
-                                    <img src="{{ asset('front/images/projects/conceptx.png') }}" alt="">
-                                </div>
-                                <div class="desc">
-                                    <h1>Online Learning Management System</h1>						
-                                        <div class="blog-detail">Mobile Application</div>
-                                        <div class="blog-content">
-                                            <h1>Project Summary</h1>
-                                            <p>This system focuses on the grade 11 course to improve the Education System of Myanmar. There are four main features - Vide Section, Content, Assignment and Class. Generate RESTful API for Android App and Website.
-                                            </p>
-                                            <h3>Language & Environment</h3>
-                                            <ul>
-                                                <li>Laravel Framework</li>
-                                                <li>PHP</li>
-                                                <li>Vue.js</li>
-                                                <li>Tailwind CSS</li>
-                                                <li>jQuery</li>
-                                                <li>JavaScript</li>
-                                                <li>Bootstrap</li>
-                                            </ul>
-                                            <h3>My Responsibilities</h3>
-                                            <ul>
-                                                <li>Discuss with the front-end development and other members to implement the new features</li>
-                                                <li>Requirement analysis and making the flowchart</li>
-                                                <li>Develop the admin dashboard and generate the API</li>
-                                                <li>Testing new features and fixing bugs</li>
-                                                <li>Deploy on the Digital Ocean Server</li>
-                                                <li>Document the new features</li>
-                                            </ul>
-                                        </div>
-                                        <br>
-                                        <a href="https://play.google.com/store/apps/details?id=co.binary.conceptx" class="button" target="_blank">
-                                            <span class="text">View App</span>
                                             <span class="arrow"></span>
                                         </a>
                                 </div>
