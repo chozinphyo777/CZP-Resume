@@ -24,7 +24,7 @@
                             <div class="name">Backend Engineer</div>
                             <div class="company">ConceptX</div>
                             <p>
-                                I'm working as a back-end engineer. I manage the data,  API integration for the mobile side and web application and deploy on server.
+                                I'm working as a Backend engineer. I manage the data,  API integration for the mobile side and web application and deploy on server.
                             </p>
                         </div>
                         <div class="resume-item border-line-h">
@@ -32,7 +32,7 @@
                             <div class="name">Web Developer</div>
                             <div class="company">Evolx IT  & Business Solutions</div>
                             <p>
-                                Developed the new websites and revamp existing websites using WordPress and other front-end frameworks.
+                                Developed the new websites and revamp existing websites using WordPress and other Frontend frameworks.
                             </p>
                         </div>
                         <div class="resume-item border-line-h">

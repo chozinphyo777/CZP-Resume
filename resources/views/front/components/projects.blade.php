@@ -40,7 +40,7 @@
                                             </ul>
                                             <h3>My Responsibilities</h3>
                                             <ul>
-                                                <li>Discuss with the front-end development and other members to implement the new features</li>
+                                                <li>Discuss with the Frontend development team and other members to implement the new features</li>
                                                 <li>Requirement analysis, making the flowchart and database design</li> 
                                                 <li>Generate the API for this APP</li>
                                                 <li>Testing new features and fixing bugs</li>
@@ -91,7 +91,7 @@
                                             </ul>
                                             <h3>My Responsibilities</h3>
                                             <ul>
-                                                <li>Discuss with the front-end development and other members to implement the new features</li>
+                                                <li>Discuss with the Frontend development team and other members to implement the new features</li>
                                                 <li>Requirement analysis, making the flowchart and database design</li>
                                                 <li>Develop the admin dashboard and generate the API</li>
                                                 <li>Testing new features and fixing bugs</li>
@@ -142,7 +142,7 @@
                                             </ul>
                                             <h3>My Responsibilities</h3>
                                             <ul>
-                                                <li>Discuss with the front-end development and other members to implement the new features</li>
+                                                <li>Discuss with the Frontend development team and other members to implement the new features</li>
                                                 <li>Requirement analysis, making the flowchart and database design</li>
                                                 <li>Develop the admin dashboard and generate the API</li>
                                                 <li>Testing new features and fixing bugs</li>
@@ -235,7 +235,7 @@
                                             </ul>
                                             <h3>My Responsibilities</h3>
                                             <ul>
-                                                <li>Discuss with the front-end development and other members to implement the new features</li>
+                                                <li>Discuss with the Frontend development team and other members to implement the new features</li>
                                                 <li>Requirement analysis, making the flowchart and database design</li>
                                                 <li>Develop the admin dashboard and generate the API</li>
                                                 <li>Testing new features and fixing bugs</li>

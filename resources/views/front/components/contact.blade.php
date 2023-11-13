@@ -14,7 +14,7 @@
                 <div class="col col-d-12 col-t-12 col-m-12 border-line-v">
                     <div class="info-list">
                         <ul>
-                            <li><strong>Address . . . . .</strong> Yangon, Myanmar</li>
+                            <li><strong>Address . . . . .</strong>Singapore</li>
                             <li><strong>Email . . . . .</strong> chozinphyo@ucsy.edu.mm</li>
                             <li><strong>Phone . . . . .</strong> +65 86513267</li>
                             <li><strong>WhatsApp . . . . .</strong>+65 86513267</li>

@@ -39,7 +39,7 @@
                                 <span class="fa fa-html5"></span>
                             </div>
                             <div class="name">
-                                <span>Front-End</span>
+                                <span>Frontend</span>
                             </div>
                             <div class="desc">
                                 <div>
@@ -55,7 +55,7 @@
                                 <span class="fa fa-code"></span>
                             </div>
                             <div class="name">
-                                <span>Back-End</span>
+                                <span>Backend</span>
                             </div>
                             <div class="desc">
                                 <div>UI/UX focus on the user, frontend focus on the settings of the user, and backend focus on the data.</div>

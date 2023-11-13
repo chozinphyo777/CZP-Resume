@@ -7,8 +7,8 @@
             <div class="typing-title">
                 <p>Full-Stack Developer</p>
                 <p>Web Developer</p>
-                <p>Front-end Developer</p>
-                <p>Back-end Developer</p>
+                <p>Frontend Developer</p>
+                <p>Backend Developer</p>
                 <p>Web Designer</p>
             </div>
         </div>

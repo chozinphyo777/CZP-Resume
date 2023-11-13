@@ -10,8 +10,8 @@
             <div class="typing-title">
                 <p>Programmer</p>
                 <p>Full-Stack Developer</p>
-                <p>Front-end Developer</p>
-                <p>Back-end Developer</p>
+                <p>Frontend Developer</p>
+                <p>Backend Developer</p>
             </div>
         </div>
 
@@ -24,7 +24,7 @@
         
         <!-- profile buttons -->
         <div class="lnks">
-            <a href="https://firebasestorage.googleapis.com/v0/b/shared-files-5ddef.appspot.com/o/CHO%20ZIN%20PHYO.pdf?alt=media&token=31cf9c67-a232-44d4-a1e0-51c8ebc3032f" target="blank" class="lnk" download="chozinphyo_cv">
+            <a href="https://firebasestorage.googleapis.com/v0/b/shared-files-5ddef.appspot.com/o/CHO%20ZIN%20PHYO.pdf?alt=media&token=6ef425ce-f88b-463d-a54d-d94517688ef7" target="blank" class="lnk" download="chozinphyo_cv">
                 <span class="text">Download CV</span>
                 <span class="ion ion-archive"></span>
             </a>
