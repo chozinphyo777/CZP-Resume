@@ -20,7 +20,7 @@
                         @endphp
                         <ul>
                             <li><strong>Age . . . . .</strong> {{ $diff->format('%y') }}</li>
-                            <li><strong>Residence . . . . .</strong> Myanmar</li>
+                            <li><strong>Residence . . . . .</strong> Singapore(Current Residential)</li>
                             <li><strong>Nationality . . . . .</strong> Myanmar</li>
                             <li><strong>Freelance . . . . .</strong> Available</li>
                         </ul>
