@@ -20,7 +20,7 @@
                     </div>
                     <div class="resume-items">
                         <div class="resume-item border-line-h active">
-                            <div class="date">2020 Jan - Present</div>
+                            <div class="date">2019 Dec - 2023 Dec</div>
                             <div class="name">Backend Engineer</div>
                             <div class="company">ConceptX</div>
                             <p>

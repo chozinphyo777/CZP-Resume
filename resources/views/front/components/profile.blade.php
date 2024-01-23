@@ -24,7 +24,7 @@
         
         <!-- profile buttons -->
         <div class="lnks">
-            <a href="https://firebasestorage.googleapis.com/v0/b/shared-files-5ddef.appspot.com/o/CHO%20ZIN%20PHYO.pdf?alt=media&token=8cd954f8-81bb-400d-be47-8b4fda3c953b" target="blank" class="lnk" download="chozinphyo_cv">
+            <a href="https://firebasestorage.googleapis.com/v0/b/shared-files-5ddef.appspot.com/o/CHO%20ZIN%20PHYO.pdf?alt=media&token=35eb1093-05c0-44c9-a0c7-f8642761023a" target="blank" class="lnk" download="chozinphyo_cv">
                 <span class="text">Download CV</span>
                 <span class="ion ion-archive"></span>
             </a>
